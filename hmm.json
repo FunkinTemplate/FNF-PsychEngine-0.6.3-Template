@@ -74,6 +74,11 @@
       "name": "lime-samples",
       "type": "haxelib",
       "version": "7.0.0"
+    },
+    {
+      "name": "flxanimate",
+      "type": "haxelib",
+      "version": "3.0.4"
     }
   ]
 }
