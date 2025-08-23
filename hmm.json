@@ -10,7 +10,7 @@
       "name": "linc_luajit",
       "type": "git",
       "ref": "main",
-      "url": "https://github.com/AliAlafandy/linc_luajit"
+      "url": "https://github.com/AlafandyPorting/linc_luajit"
     },
     {
       "name": "extension-androidtools",
@@ -42,13 +42,13 @@
       "name": "hxCodec",
       "type": "git",
       "ref": "main",
-      "url": "https://github.com/AliAlafandy/hxCodec"
+      "url": "https://github.com/AlafandyPorting/hxCodec"
     },
     {
       "name": "lime",
       "type": "git",
       "ref": "main",
-      "url": "https://github.com/AliAlafandy/lime"
+      "url": "https://github.com/AlafandyPorting/lime"
     },
     {
       "name": "openfl",
