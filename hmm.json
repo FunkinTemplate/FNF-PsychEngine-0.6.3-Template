@@ -4,7 +4,7 @@
       "name": "discord_rpc",
       "type": "git",
       "ref": "master",
-      "url": "https://github.com/Aidan63/linc_discord-rpc"
+      "url": "https://github.com/AlafandyPorting/linc_discord-rpc"
     },
     {
       "name": "linc_luajit",
@@ -16,7 +16,7 @@
       "name": "extension-androidtools",
       "type": "git",
       "ref": "main",
-      "url": "https://github.com/MAJigsaw77/extension-androidtools"
+      "url": "https://github.com/AlafandyPorting/extension-androidtools"
     },
     {
       "name": "flixel",
@@ -46,9 +46,8 @@
     },
     {
       "name": "lime",
-      "type": "git",
-      "ref": "main",
-      "url": "https://github.com/AlafandyPorting/lime"
+      "type": "haxelib",
+      "version": "8.0.1"
     },
     {
       "name": "openfl",
