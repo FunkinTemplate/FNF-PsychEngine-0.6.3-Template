@@ -3,20 +3,23 @@
     {
       "name": "discord_rpc",
       "type": "git",
+      "dir": null,
       "ref": "master",
-      "url": "https://github.com/AlafandyPorting/linc_discord-rpc"
+      "url": "https://github.com/Aidan63/linc_discord-rpc"
     },
     {
       "name": "linc_luajit",
       "type": "git",
+      "dir": null,
       "ref": "main",
       "url": "https://github.com/AlafandyPorting/linc_luajit"
     },
     {
       "name": "extension-androidtools",
       "type": "git",
+      "dir": null,
       "ref": "main",
-      "url": "https://github.com/AlafandyPorting/extension-androidtools"
+      "url": "https://github.com/MAJigsaw77/extension-androidtools"
     },
     {
       "name": "flixel",
@@ -41,6 +44,7 @@
     {
       "name": "hxCodec",
       "type": "git",
+      "dir": null,
       "ref": "main",
       "url": "https://github.com/AlafandyPorting/hxCodec"
     },
