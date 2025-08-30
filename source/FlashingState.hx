@@ -24,8 +24,6 @@ class FlashingState extends MusicBeatState
 
 		var bg:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
 		add(bg);
-		
-		controls.isInSubstate = false; // qhar I hate it
 
 		#if mobile
 		warnTextMobile = new FlxText(0, 0, FlxG.width, "Hey, watch out!\n
